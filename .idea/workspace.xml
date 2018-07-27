@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5182e7e6-4c99-4d1d-9b00-01dabc882369" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/ITierSerive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/AbstractVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/PrintMeVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ItemElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ShoppingCartVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ShoppingCartVisitorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/adapter/example/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/adapter/example/RectangleAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/adapter/example/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/adapter/example/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/adapter/example/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/persistence/AbstractPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/persistence/DatabasePersisteceImplementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/persistence/FilePersistenceImplementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/persistence/OrmPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/persistence/PersistenceImplementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/decorator/web/ABPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/decorator/web/VerSB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/proxy/virtual/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/cor/AbstractMiddleware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/cor/AbstractMiddleware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/cor/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/cor/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Grammar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Grammar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/RotateThenMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/RotateThenMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/MTierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/MTierService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/Organizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/Organizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/before/TierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/before/TierService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/MementoEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/MementoEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/ChartObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/ChartObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/UsersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/UsersPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/template_method/algo/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/template_method/algo/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/CheckVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/CheckVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/CountVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/CountVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Tire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/Valve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Valve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/builder/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/builder/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/DynamicProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/DynamicMembershipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/MembershipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/ConfigurableProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Individual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/GroupedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Charity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Membership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/SimpleProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Organization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/VirtualProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Government.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/DoubleCheckExecutionContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/DoubleCheckExecutionContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/ExecutionContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/ExecutionContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/ExecutionContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/ExecutionContextHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/LazyExecutionContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/LazyExecutionContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/Copier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/Copier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/ToFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/ToFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/Writer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/thread/AbstractThreadSchedular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/thread/AbstractThreadSchedular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/thread/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/thread/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlParentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlParentElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/decorator/web/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/decorator/web/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/flyweight/Migrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/flyweight/Migrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/proxy/protection/SearchServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/proxy/protection/SearchServiceProxy.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="design-patterns" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/bridge/persistence/DatabasePersisteceImplementor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/decorator/web/ABPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/decorator/web/VerSB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/decorator/web/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlTag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/XmlParentElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/flyweight/TierFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/flyweight/Migrator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/proxy/virtual/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/proxy/protection/SearchServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/proxy/protection/SearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/cor/AbstractMiddleware.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Government.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/Copier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Organization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/structural/composite/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/rot/solution/ToFileWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/models/Charity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/factory/DynamicMembershipFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/cor/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/creational/singleton/DoubleCheckExecutionContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/UI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/before/TierService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/ITierSerive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/Organizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/MTierService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/MementoEditor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/template_method/algo/Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/ChartObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/UsersPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Grammar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Move.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/RotateThenMove.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Expr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ShoppingCartVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ItemElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ShoppingCartVisitorImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/state/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/AbstractVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/PrintMeVisitor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
+              <item name="shopingcart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="awt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="awt" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.amadeus.training.patterns.behavioral.visitor.shopingcart" />
+      <recent name="com.amadeus.training.patterns.behavioral.mediator.after" />
+      <recent name="com.amadeus.training.patterns.structural.decorator.web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Runner (1)">
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amadeus.training.patterns.behavioral.visitor.car.Runner" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amadeus.training.patterns.behavioral.visitor.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Runner (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amadeus.training.patterns.behavioral.template_method.Runner" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amadeus.training.patterns.behavioral.template_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Runner (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amadeus.training.patterns.behavioral.observer.Runner" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amadeus.training.patterns.behavioral.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Runner (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amadeus.training.patterns.behavioral.interpreter.Runner" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amadeus.training.patterns.behavioral.interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amadeus.training.patterns.behavioral.visitor.shopingcart.Runner" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amadeus.training.patterns.behavioral.visitor.shopingcart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Runner (3)" />
+      <item itemvalue="Application.Runner (4)" />
+      <item itemvalue="Application.Runner (5)" />
+      <item itemvalue="Application.Runner" />
+      <item itemvalue="Application.Runner (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner (1)" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Runner (5)" />
+        <item itemvalue="Application.Runner (4)" />
+        <item itemvalue="Application.Runner (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5182e7e6-4c99-4d1d-9b00-01dabc882369" name="Default" comment="" />
+      <created>1532367172353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532367172353</updated>
+      <workItem from="1532367173632" duration="1916000" />
+      <workItem from="1532370731567" duration="19237000" />
+      <workItem from="1532487785205" duration="20202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tester_testNotFound - 2018.07.23 at 20h 38m 41s.xml">
+      <configuration name="Tester.testNotFound" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41355000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294964" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3294964" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3294964" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37122303" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3294964" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="1" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.27248323" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.24966443" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.18791947" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/MTierService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/mediator/after/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/CareTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/MementoEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="14" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/Memento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/memento/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/command/Editor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/template_method/algo/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/template_method/algo/FileToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/template_method/algo/Algorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/template_method/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/template_method/algo/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/UsersPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/ChartObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/ListObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev/Java/jdk1.8.0_181/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev/Java/jdk1.8.0_181/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/observer/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Grammar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/VoidExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/RotateThenMove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Rotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/interpreter/Expr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/state/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1233#1234#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/state/ActiveState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/state/Pending.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/state/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/state/BlockedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/AbstractVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/PrintMeVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Valve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Tire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/CountVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/CheckVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/car/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev/Java/jdk1.8.0_181/src.zip!/java/awt/event/MouseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ShoppingCartVisitorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ShoppingCartVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev/Java/jdk1.8.0_181/src.zip!/java/awt/event/MouseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amadeus/training/patterns/behavioral/visitor/shopingcart/ItemElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>design-patterns</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:3.8.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

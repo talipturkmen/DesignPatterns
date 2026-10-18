@@ -2,7 +2,7 @@
 
 > **Archived.** This is a 2018 training/learning project and is no longer maintained.
 
-A collection of small Java examples, one package per design pattern, written as training material. Each pattern package has a `Runner` class with a `main` method that demonstrates the pattern. Some packages also contain a JUnit test.
+A collection of small Java examples, one package per design pattern, written as training material. Most pattern packages have a `Runner` class with a `main` method that demonstrates the pattern.
 
 Patterns covered (under `src/main/java/com/amadeus/training/patterns/`):
 
